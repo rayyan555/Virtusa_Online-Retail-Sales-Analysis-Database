@@ -140,7 +140,7 @@ Detects customers who have not placed any orders.
 
 #### 🔹 Monthly Revenue
 
-![Revenue](images/Screenshot%202026-04-08%2020416.png)
+![Revenue](images/Screenshot%202026-04-08%20220416.png)
 
 #### 🔹 Category-wise Sales
 
