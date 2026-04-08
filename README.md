@@ -57,7 +57,7 @@ Online-Retail-Sales-Analysis/
 │   ├── Screenshot 2026-04-08 204153.png
 │   ├── Screenshot 2026-04-08 204228.png
 │   ├── Screenshot 2026-04-08 204251.png
-│   ├── Screenshot 2026-04-08 204315.png
+│   ├── Screenshot 2026-04-08 215807.png
 │   ├── Screenshot 2026-04-08 204339.png
 │
 └── README.md
@@ -144,7 +144,7 @@ Detects customers who have not placed any orders.
 
 #### 🔹 Category-wise Sales
 
-![Category](images/Screenshot%202026-04-08%20204315.png)
+![Category](images/Screenshot%202026-04-08%20215807.png)
 
 #### 🔹 Inactive Customers
 
