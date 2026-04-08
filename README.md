@@ -56,7 +56,7 @@ Online-Retail-Sales-Analysis/
 │   ├── Screenshot 2026-04-08 204121.png
 │   ├── Screenshot 2026-04-08 204153.png
 │   ├── Screenshot 2026-04-08 204228.png
-│   ├── Screenshot 2026-04-08 204251.png
+│   ├── Screenshot 2026-04-08 220416.png
 │   ├── Screenshot 2026-04-08 215807.png
 │   ├── Screenshot 2026-04-08 204339.png
 │
@@ -140,7 +140,7 @@ Detects customers who have not placed any orders.
 
 #### 🔹 Monthly Revenue
 
-![Revenue](images/Screenshot%202026-04-08%20204251.png)
+![Revenue](images/Screenshot%202026-04-08%220416.png)
 
 #### 🔹 Category-wise Sales
 
