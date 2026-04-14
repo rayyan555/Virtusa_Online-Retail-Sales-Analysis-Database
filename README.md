@@ -1,16 +1,16 @@
-# 🛒 Online Retail Sales Analysis Database
+#  Online Retail Sales Analysis Database
 
 A SQL-based project designed to analyze retail sales data and generate meaningful business insights using structured queries.
 
 ---
 
-## 📌 Problem Statement
+##  Problem Statement
 
 Retail businesses generate large amounts of sales data but often lack structured insights. This project builds a relational database and uses SQL queries to analyze sales performance.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Design a relational database for an online store
 * Store customer, product, and order data
@@ -19,9 +19,9 @@ Retail businesses generate large amounts of sales data but often lack structured
 
 ---
 
-## 🧱 Database Schema
+##  Database Schema
 
-### 📂 Tables:
+### Tables:
 
 * **Customers** (customer_id, name, city)
 * **Products** (product_id, name, category, price)
@@ -30,7 +30,7 @@ Retail businesses generate large amounts of sales data but often lack structured
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```id="3vdn2u"
 Online-Retail-Sales-Analysis/
@@ -65,7 +65,7 @@ Online-Retail-Sales-Analysis/
 
 ---
 
-## ⚙️ How to Run the Project
+##  How to Run the Project
 
 1. Create database:
 
@@ -89,70 +89,70 @@ USE retail_db;
 
 ---
 
-## 🔍 Key Analysis Performed
+##  Key Analysis Performed
 
-### 🔹 Top-Selling Products
+###  Top-Selling Products
 
 Identifies products with the highest sales quantity.
 
-### 🔹 Most Valuable Customers
+###  Most Valuable Customers
 
 Finds customers who generated the most revenue.
 
-### 🔹 Monthly Revenue
+###  Monthly Revenue
 
 Analyzes revenue trends month-wise.
 
-### 🔹 Category-wise Sales
+###  Category-wise Sales
 
 Shows which product category performs best.
 
-### 🔹 Inactive Customers
+###  Inactive Customers
 
 Detects customers who have not placed any orders.
 
 ---
 
-## 📸 Output Screenshots
+##  Output Screenshots
 
-### 🧱 Database Creation & Tables
+###  Database Creation & Tables
 
 ![DB Setup](images/Screenshot%202026-04-08%20202649.png)
 ![Tables](images/Screenshot%202026-04-08%20203527.png)
 
 ---
 
-### 📥 Data Insertion
+###  Data Insertion
 
 ![Insert Data](images/Screenshot%202026-04-08%20203717.png)
 
 ---
 
-### 🔍 Query Outputs
+###  Query Outputs
 
-#### 🔹 Top-Selling Products
+####  Top-Selling Products
 
 ![Top Products](images/Screenshot%202026-04-08%20204153.png)
 
-#### 🔹 Most Valuable Customers
+####  Most Valuable Customers
 
 ![Customers](images/Screenshot%202026-04-08%20204228.png)
 
-#### 🔹 Monthly Revenue
+####  Monthly Revenue
 
 ![Revenue](images/Screenshot%202026-04-08%20220416.png)
 
-#### 🔹 Category-wise Sales
+####  Category-wise Sales
 
 ![Category](images/Screenshot%202026-04-08%20215807.png)
 
-#### 🔹 Inactive Customers
+####  Inactive Customers
 
 ![Inactive](images/Screenshot%202026-04-08%20204339.png)
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * SQL (MySQL)
 * Database Design
@@ -160,7 +160,7 @@ Detects customers who have not placed any orders.
 
 ---
 
-## ✅ Project Outcome
+##  Project Outcome
 
 * Designed a structured relational database
 * Performed data analysis using SQL joins and aggregations
@@ -170,7 +170,7 @@ Detects customers who have not placed any orders.
 ---
 
 
-## 👨‍💻 Author
+##  Author
 
 **Rayyan A**
 
