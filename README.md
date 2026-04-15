@@ -30,40 +30,6 @@ Retail businesses generate large amounts of sales data but often lack structured
 
 ---
 
-##  Project Structure
-
-```id="3vdn2u"
-Online-Retail-Sales-Analysis/
-│
-├── schema.sql
-├── insert_data.sql
-├── top_products.sql
-├── valuable_customers.sql
-├── monthly_revenue.sql
-├── category_sales.sql
-├── inactive_customers.sql
-│
-├── images/
-│   ├── Screenshot 2026-04-08 202649.png
-│   ├── Screenshot 2026-04-08 203401.png
-│   ├── Screenshot 2026-04-08 203527.png
-│   ├── Screenshot 2026-04-08 203549.png
-│   ├── Screenshot 2026-04-08 203717.png
-│   ├── Screenshot 2026-04-08 203740.png
-│   ├── Screenshot 2026-04-08 203929.png
-│   ├── Screenshot 2026-04-08 203941.png
-│   ├── Screenshot 2026-04-08 204003.png
-│   ├── Screenshot 2026-04-08 204121.png
-│   ├── Screenshot 2026-04-08 204153.png
-│   ├── Screenshot 2026-04-08 204228.png
-│   ├── Screenshot 2026-04-08 220416.png
-│   ├── Screenshot 2026-04-08 215807.png
-│   ├── Screenshot 2026-04-08 204339.png
-│
-└── README.md
-```
-
----
 
 ##  How to Run the Project
 
